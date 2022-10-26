@@ -8,7 +8,7 @@ import (
 
 	"github.com/ecsaas/api-request-config/DEFINE_VARIABLES/arcgf"
 	"github.com/ecsaas/api-request-config/DEFINE_VARIABLES/arcgt"
-	"github.com/go-playground/validator"
+	"github.com/go-playground/validator/v10"
 )
 
 func NewApiRequestConfig(request *http.Request, writer http.ResponseWriter) InitApiRequest { //arcg
