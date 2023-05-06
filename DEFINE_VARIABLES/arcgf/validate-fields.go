@@ -22,6 +22,7 @@ const VERIFY_CODE = "verifyCode"
 const VERIFY_EMAIL = "verifyEmail"
 
 const SHOP_ID = "shopId"
+const PAGE_ID = "pageId"
 
 const STORE_NAME = "storeName"
 const STORE_DOMAIN_PREFIX = "storeDomainPrefix"
